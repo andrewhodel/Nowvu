@@ -1,0 +1,5 @@
+<config>
+<loaderId>dev2</loaderId>
+<staticContentUrl>http://cs.nowvu.com/static.php</staticContentUrl>
+<dynContentUrl>http://cs.nowvu.com/dyn.php</dynContentUrl>
+</config>
